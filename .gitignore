@@ -1,0 +1,30 @@
+# Editor settings
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# C/C++ builds
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Node/Vite
+node_modules/
+dist/
+build/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db

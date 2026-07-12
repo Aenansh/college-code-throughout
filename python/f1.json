@@ -1,0 +1,407 @@
+[
+  {
+    "title": "Remove Duplicates from Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "description": "Modify a sorted array in-place to remove duplicates such that each unique element appears only once and return the new length.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "solutionUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5540670/video-use-two-pointers-coding-exercise-b-7lap",
+    "categories": [
+      "array",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Set Matrix Zeroes",
+    "slug": "set-matrix-zeroes",
+    "description": "If an element in a matrix is zero, set its entire row and column to zero.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "solutionUrl": "https://algo.monster/liteproblems/73",
+    "categories": [
+      "array",
+      "matrix"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "description": "Move all zeros to the end of an array while maintaining the relative order of the non-zero elements.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/move-zeroes/",
+    "solutionUrl": "https://algo.monster/liteproblems/283",
+    "categories": [
+      "array",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "description": "Find the maximum profit from a single buy and sell transaction.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "solutionUrl": "https://youtu.be/bU_dXCOWHls",
+    "categories": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Chocolate Distribution Problem",
+    "slug": "chocolate-distribution-problem",
+    "description": "Find the minimum difference between the maximum and minimum number of chocolates in a subset of packages of a given size.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1",
+    "solutionUrl": "https://youtu.be/bU_dXCOWHls",
+    "categories": [
+      "array",
+      "sorting",
+      "sliding-window"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "description": "Find two numbers in an array that add up to a specific target.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/two-sum/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/check-if-pair-with-given-sum-exists-in-array/",
+    "categories": [
+      "array",
+      "hash-table",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock II",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "description": "Find the maximum profit you can achieve by buying and selling stock multiple times.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "solutionUrl": "https://algo.monster/liteproblems/122",
+    "categories": [
+      "greedy",
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Subarray Sums Divisible by K",
+    "slug": "subarray-sums-divisible-by-k",
+    "description": "Determine the number of contiguous subarrays whose elements sum up to a value perfectly divisible by K.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+    "solutionUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/solutions/7487189/subarrays-divisible-by-k-prefix-sum-hash-xkj7/",
+    "categories": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Find All Duplicates in an Array",
+    "slug": "find-all-duplicates-in-an-array",
+    "description": "Given an array of integers, find all elements that appear twice in this array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+    "solutionUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/",
+    "categories": [
+      "array",
+      "hash-table",
+      "two-pointers"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "description": "Find the maximum amount of water that can be contained between two lines in an array representing heights.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/container-with-most-water/",
+    "solutionUrl": "https://leetcode.com/problems/container-with-most-water/solutions/5139915/video-simple-two-pointer-solution-by-nii-9y0n/",
+    "categories": [
+      "array",
+      "two-pointers",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "facebook"
+    ]
+  },
+  {
+    "title": "Three Sum",
+    "slug": "three-sum",
+    "description": "Find all unique triplets in the array which give the sum of zero.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/3sum/",
+    "solutionUrl": "https://algomap.io/problems/3sum",
+    "categories": [
+      "array",
+      "sorting",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "facebook"
+    ]
+  },
+  {
+    "title": "Four Sum",
+    "slug": "four-sum",
+    "description": "Find all unique quadruplets in an array that sum up to a target value.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/4sum/",
+    "solutionUrl": "https://algo.monster/liteproblems/18",
+    "categories": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [
+      "cognizant",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Maximum Points You Can Obtain from Cards",
+    "slug": "maximum-points-you-can-obtain-from-cards",
+    "description": "Find the maximum score achievable by taking exactly k cards from the beginning or end of a row of cards.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+    "solutionUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/solutions/597825/simple-clean-intuitive-explanation-with-iivf4/",
+    "categories": [
+      "array",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "description": "Find the total number of continuous subarrays that sum up to a specific integer k.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "solutionUrl": "https://youtu.be/rsDvhHiAe1E",
+    "categories": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Spiral Matrix",
+    "slug": "spiral-matrix",
+    "description": "Traverse a matrix in a spiral order and return all elements in that order.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/spiral-matrix/",
+    "solutionUrl": "https://leetcode.com/problems/spiral-matrix/solutions/7487622/clean-simple-beats-easy-to-understand-ef-yi2y",
+    "categories": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Word Search",
+    "slug": "word-search",
+    "description": "Determine if a word can be constructed from letters of sequentially adjacent cells in a grid.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/word-search/",
+    "solutionUrl": "https://youtu.be/bU_dXCOWHls",
+    "categories": [
+      "backtracking",
+      "array",
+      "matrix"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Merge Sorted Array",
+    "slug": "merge-sorted-array",
+    "description": "Merge two sorted arrays into a single sorted array.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/merge-sorted-array/",
+    "solutionUrl": "https://leetcode.com/problems/merge-sorted-array/",
+    "categories": [
+      "array",
+      "sorting",
+      "two-pointers"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Jump Game",
+    "slug": "jump-game",
+    "description": "Determine if you can reach the last index starting from the first index in an array of non-negative integers where each element represents your maximum jump length.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/jump-game/description/",
+    "solutionUrl": "https://neetcode.io/solutions/jump-game",
+    "categories": [
+      "array",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "description": "Find the element that appears more than n/2 times in an array of size n.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/majority-element/",
+    "solutionUrl": "https://youtu.be/sBuRjHqDTzY",
+    "categories": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Reverse Pairs",
+    "slug": "reverse-pairs",
+    "description": "Count the number of pairs (i, j) such that i < j and nums[i] > 2 * nums[j].",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/find-the-count-of-reverse-pairs/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/find-the-count-of-reverse-pairs/",
+    "categories": [
+      "array",
+      "divide-and-conquer",
+      "trees"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "All Unique Permutations of an array",
+    "slug": "all-unique-permutations-of-an-array",
+    "description": "Find all unique permutations of the elements in a given array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/print-all-permutations-of-a-string-with-duplicates-allowed-in-input-string/",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/1",
+    "categories": [
+      "backtracking",
+      "array",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Game of Life",
+    "slug": "game-of-life",
+    "description": "Implement Conway's Game of Life on a 2D board with rules for cell survival and reproduction.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/game-of-life/",
+    "solutionUrl": "https://algo.monster/liteproblems/289",
+    "categories": [
+      "array",
+      "matrix",
+      "dynamic-programming",
+      "simulation"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Max Value of Equation",
+    "slug": "max-value-of-equation",
+    "description": "Find the maximum value of the equation yi + yj + |xi - xj| for two points (xi, yi) and (xj, yj) such that |xi - xj| <= k.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/max-value-of-equation/",
+    "solutionUrl": "https://leetcode.com/problems/max-value-of-equation/solutions/7430684/c-clear-and-efficient-solution-beats-100-p8y8",
+    "categories": [
+      "array",
+      "sliding-window",
+      "heap-priority-queue"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+    "description": "Design a data structure that supports insertion, deletion, and getting a random element, all in O(1) time, even with duplicates.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+    "solutionUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/solutions/7339090/extended-solution-of-part1-by-king-t_736-myyb",
+    "categories": [
+      "design",
+      "hash-table",
+      "array"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  }
+]

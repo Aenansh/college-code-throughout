@@ -1,0 +1,4689 @@
+[
+  {
+    "title": "Remove Duplicates from Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "description": "Modify a sorted array in-place to remove duplicates such that each unique element appears only once and return the new length.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "solutionUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5540670/video-use-two-pointers-coding-exercise-b-7lap",
+    "categories": [
+      "array",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Set Matrix Zeroes",
+    "slug": "set-matrix-zeroes",
+    "description": "If an element in a matrix is zero, set its entire row and column to zero.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "solutionUrl": "https://algo.monster/liteproblems/73",
+    "categories": [
+      "array",
+      "matrix"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "description": "Move all zeros to the end of an array while maintaining the relative order of the non-zero elements.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/move-zeroes/",
+    "solutionUrl": "https://algo.monster/liteproblems/283",
+    "categories": [
+      "array",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "description": "Find the maximum profit from a single buy and sell transaction.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "solutionUrl": "https://youtu.be/bU_dXCOWHls",
+    "categories": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Chocolate Distribution Problem",
+    "slug": "chocolate-distribution-problem",
+    "description": "Find the minimum difference between the maximum and minimum number of chocolates in a subset of packages of a given size.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1",
+    "solutionUrl": "https://youtu.be/bU_dXCOWHls",
+    "categories": [
+      "array",
+      "sorting",
+      "sliding-window"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "description": "Find two numbers in an array that add up to a specific target.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/two-sum/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/check-if-pair-with-given-sum-exists-in-array/",
+    "categories": [
+      "array",
+      "hash-table",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock II",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "description": "Find the maximum profit you can achieve by buying and selling stock multiple times.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "solutionUrl": "https://algo.monster/liteproblems/122",
+    "categories": [
+      "greedy",
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Subarray Sums Divisible by K",
+    "slug": "subarray-sums-divisible-by-k",
+    "description": "Determine the number of contiguous subarrays whose elements sum up to a value perfectly divisible by K.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+    "solutionUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/solutions/7487189/subarrays-divisible-by-k-prefix-sum-hash-xkj7/",
+    "categories": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Find All Duplicates in an Array",
+    "slug": "find-all-duplicates-in-an-array",
+    "description": "Given an array of integers, find all elements that appear twice in this array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+    "solutionUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/",
+    "categories": [
+      "array",
+      "hash-table",
+      "two-pointers"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "description": "Find the maximum amount of water that can be contained between two lines in an array representing heights.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/container-with-most-water/",
+    "solutionUrl": "https://leetcode.com/problems/container-with-most-water/solutions/5139915/video-simple-two-pointer-solution-by-nii-9y0n/",
+    "categories": [
+      "array",
+      "two-pointers",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "facebook"
+    ]
+  },
+  {
+    "title": "Three Sum",
+    "slug": "three-sum",
+    "description": "Find all unique triplets in the array which give the sum of zero.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/3sum/",
+    "solutionUrl": "https://algomap.io/problems/3sum",
+    "categories": [
+      "array",
+      "sorting",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "facebook"
+    ]
+  },
+  {
+    "title": "Four Sum",
+    "slug": "four-sum",
+    "description": "Find all unique quadruplets in an array that sum up to a target value.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/4sum/",
+    "solutionUrl": "https://algo.monster/liteproblems/18",
+    "categories": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [
+      "cognizant",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Maximum Points You Can Obtain from Cards",
+    "slug": "maximum-points-you-can-obtain-from-cards",
+    "description": "Find the maximum score achievable by taking exactly k cards from the beginning or end of a row of cards.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+    "solutionUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/solutions/597825/simple-clean-intuitive-explanation-with-iivf4/",
+    "categories": [
+      "array",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "description": "Find the total number of continuous subarrays that sum up to a specific integer k.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "solutionUrl": "https://youtu.be/rsDvhHiAe1E",
+    "categories": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Spiral Matrix",
+    "slug": "spiral-matrix-array",
+    "description": "Traverse a matrix in a spiral order and return all elements in that order.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/spiral-matrix/",
+    "solutionUrl": "https://leetcode.com/problems/spiral-matrix/solutions/7487622/clean-simple-beats-easy-to-understand-ef-yi2y",
+    "categories": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Word Search",
+    "slug": "word-search",
+    "description": "Determine if a word can be constructed from letters of sequentially adjacent cells in a grid.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/word-search/",
+    "solutionUrl": "https://youtu.be/bU_dXCOWHls",
+    "categories": [
+      "backtracking",
+      "array",
+      "matrix"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Merge Sorted Array",
+    "slug": "merge-sorted-array",
+    "description": "Merge two sorted arrays into a single sorted array.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/merge-sorted-array/",
+    "solutionUrl": "https://leetcode.com/problems/merge-sorted-array/",
+    "categories": [
+      "array",
+      "sorting",
+      "two-pointers"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Jump Game",
+    "slug": "jump-game",
+    "description": "Determine if you can reach the last index starting from the first index in an array of non-negative integers where each element represents your maximum jump length.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/jump-game/description/",
+    "solutionUrl": "https://neetcode.io/solutions/jump-game",
+    "categories": [
+      "array",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "description": "Find the element that appears more than n/2 times in an array of size n.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/majority-element/",
+    "solutionUrl": "https://youtu.be/sBuRjHqDTzY",
+    "categories": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Reverse Pairs",
+    "slug": "reverse-pairs",
+    "description": "Count the number of pairs (i, j) such that i < j and nums[i] > 2 * nums[j].",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/find-the-count-of-reverse-pairs/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/find-the-count-of-reverse-pairs/",
+    "categories": [
+      "array",
+      "divide-and-conquer",
+      "trees"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "All Unique Permutations of an array",
+    "slug": "all-unique-permutations-of-an-array",
+    "description": "Find all unique permutations of the elements in a given array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/print-all-permutations-of-a-string-with-duplicates-allowed-in-input-string/",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/1",
+    "categories": [
+      "backtracking",
+      "array",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Game of Life",
+    "slug": "game-of-life",
+    "description": "Implement Conway's Game of Life on a 2D board with rules for cell survival and reproduction.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/game-of-life/",
+    "solutionUrl": "https://algo.monster/liteproblems/289",
+    "categories": [
+      "array",
+      "matrix",
+      "dynamic-programming",
+      "simulation"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Max Value of Equation",
+    "slug": "max-value-of-equation",
+    "description": "Find the maximum value of the equation yi + yj + |xi - xj| for two points (xi, yi) and (xj, yj) such that |xi - xj| <= k.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/max-value-of-equation/",
+    "solutionUrl": "https://leetcode.com/problems/max-value-of-equation/solutions/7430684/c-clear-and-efficient-solution-beats-100-p8y8",
+    "categories": [
+      "array",
+      "sliding-window",
+      "heap-priority-queue"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+    "description": "Design a data structure that supports insertion, deletion, and getting a random element, all in O(1) time, even with duplicates.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+    "solutionUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/solutions/7339090/extended-solution-of-part1-by-king-t_736-myyb",
+    "categories": [
+      "design",
+      "hash-table",
+      "array"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Largest Rectangle in Histogram",
+    "slug": "largest-rectangle-in-histogram",
+    "description": "Find the largest rectangular area possible in a given histogram.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "solutionUrl": "https://algo.monster/liteproblems/84",
+    "categories": [
+      "stack",
+      "array",
+      "monotonic-stack"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "description": "Determine if the input string containing just the characters '(', ')', '{', '}', '[' and ']' is valid.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/valid-parentheses/description/",
+    "solutionUrl": "https://algomap.io/problems/valid-parentheses",
+    "categories": [
+      "stack",
+      "string"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Print all the duplicate characters in a string",
+    "slug": "print-all-the-duplicate-characters-in-a-string",
+    "description": "Find and output all characters that appear more than once in a given string.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/print-all-the-duplicates-in-the-input-string/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/print-all-the-duplicates-in-the-input-string/",
+    "categories": [
+      "string",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Find the Index of the First Occurrence in a String",
+    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "description": "Determine the starting index of a needle string within a haystack string.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1",
+    "solutionUrl": "https://algo.monster/liteproblems/28",
+    "categories": [
+      "string",
+      "string-matching",
+      "two-pointers"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "description": "Find the longest string that is a prefix of all strings in a given array.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/longest-common-prefix/",
+    "solutionUrl": "https://algo.monster/liteproblems/14",
+    "categories": [
+      "string",
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Valid Palindrome II",
+    "slug": "valid-palindrome-ii",
+    "description": "Determine if a string can become a palindrome by deleting at most one character.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/valid-palindrome-ii/",
+    "solutionUrl": "https://algo.monster/liteproblems/680",
+    "categories": [
+      "greedy",
+      "two-pointers",
+      "string"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Integer to Roman",
+    "slug": "integer-to-roman",
+    "description": "Convert a given integer into its Roman numeral representation.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/integer-to-roman/",
+    "solutionUrl": "https://algo.monster/liteproblems/12",
+    "categories": [
+      "math",
+      "string",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "description": "Generate all combinations of well-formed parentheses given a number of pairs.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "solutionUrl": "https://algo.monster/liteproblems/22",
+    "categories": [
+      "backtracking",
+      "recursion",
+      "string"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Simplify Path",
+    "slug": "simplify-path",
+    "description": "Convert a Unix-style absolute path into its simplified canonical form.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/simplify-path/",
+    "solutionUrl": "https://leetcode.com/problems/simplify-path/solutions/3407361/easy-solutions-in-java-python-and-c-look-0a1r",
+    "categories": [
+      "string",
+      "stack"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Minimum Window Substring",
+    "slug": "minimum-window-substring",
+    "description": "Find the smallest contiguous substring in one string that contains all characters of another string.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-window-substring/",
+    "solutionUrl": "https://leetcode.com/problems/minimum-window-substring/solutions/4673541/beats-100-explained-any-language-by-prod-7gfe",
+    "categories": [
+      "string",
+      "hash-table",
+      "sliding-window"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Reverse Words in a String",
+    "slug": "reverse-words-in-a-string",
+    "description": "Reverse the order of words in a given input string.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "solutionUrl": "https://youtu.be/MoCqrkt-BTI",
+    "categories": [
+      "string",
+      "two-pointers",
+      "array"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Rabin-Karp Algorithm for Pattern Searching",
+    "slug": "rabin-karp-algorithm-for-pattern-searching",
+    "description": "The Rabin-Karp algorithm uses hashing to efficiently find pattern occurrences within a text.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/cpp/implementation-of-rabin-karp-algorithm-in-cpp/",
+    "solutionUrl": "https://www.baeldung.com/cs/rabin-karp-algorithm",
+    "categories": [
+      "string",
+      "searching",
+      "hashing"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Group Anagrams",
+    "slug": "group-anagrams",
+    "description": "Given an array of strings, group the anagrams together.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/group-anagrams/",
+    "solutionUrl": "https://neetcode.io/solutions/group-anagrams",
+    "categories": [
+      "hash-table",
+      "string",
+      "array"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Word Wrap",
+    "slug": "word-wrap",
+    "description": "Arrange a sequence of words into lines such that the total cost of extra spaces at the end of lines is minimized.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/word-wrap-problem-dp-19/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/word-wrap-problem-dp-19/",
+    "categories": [
+      "dynamic-programming",
+      "string",
+      "greedy"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Basic Calculator II",
+    "slug": "basic-calculator-ii",
+    "description": "Implement a basic calculator to evaluate a simple string expression involving addition, subtraction, multiplication, and division.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/basic-calculator-ii/",
+    "solutionUrl": "https://algo.monster/liteproblems/227",
+    "categories": [
+      "stack",
+      "string",
+      "math"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Valid Number",
+    "slug": "valid-number",
+    "description": "Determine if a given string represents a valid numeric value.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/valid-number/",
+    "solutionUrl": "https://algo.monster/liteproblems/65",
+    "categories": [
+      "string",
+      "finite-state-machine",
+      "logic"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Integer to English Words",
+    "slug": "integer-to-english-words",
+    "description": "Convert a non-negative integer into its English word representation.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1",
+    "solutionUrl": "https://algo.monster/liteproblems/273",
+    "categories": [
+      "math",
+      "string",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Minimum Window Substring",
+    "slug": "minimum-window-substring-2",
+    "description": "Find the smallest substring in a string that contains all characters of another string.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-window-substring/",
+    "solutionUrl": "https://leetcode.com/problems/minimum-window-substring/solutions/5756564/video-sliding-window-solution-by-niits-gnec",
+    "categories": [
+      "sliding-window",
+      "hash-map",
+      "string"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Text Justification",
+    "slug": "text-justification",
+    "description": "Arrange a sequence of words into lines of a given width so that the lines are justified.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/text-justification/",
+    "solutionUrl": "https://algo.monster/liteproblems/68",
+    "categories": [
+      "dynamic-programming",
+      "string",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Boyer Moore Algorithm for Pattern Searching",
+    "slug": "boyer-moore-algorithm-for-pattern-searching",
+    "description": "The Boyer-Moore algorithm is an efficient string-search algorithm that preprocesses the pattern to skip multiple characters in the text, matching from the end of the pattern backward.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/boyer-moore-algorithm-for-pattern-searching/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/boyer-moore-algorithm-for-pattern-searching/",
+    "categories": [
+      "string",
+      "string-matching",
+      "algorithms"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Distinct Subsequences",
+    "slug": "distinct-subsequences",
+    "description": "Find the number of distinct subsequences of a string S that equals another string T.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/distinct-subsequences/",
+    "solutionUrl": "https://leetcode.com/problems/distinct-subsequences/solutions/7329112/all-in-one-solution-9977-beats-dynamic-p-o6n2",
+    "categories": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Print Anagrams Together",
+    "slug": "print-anagrams-together",
+    "description": "Group a list of strings into sets of anagrams.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/print-anagrams-together/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/print-anagrams-together/1",
+    "categories": [
+      "hash-map",
+      "string",
+      "array"
+    ],
+    "companies": [
+      "facebook"
+    ]
+  },
+  {
+    "title": "Maximal Rectangle",
+    "slug": "maximal-rectangle",
+    "description": "Find the largest rectangle containing only ones in a binary matrix.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximal-rectangle/",
+    "solutionUrl": "https://leetcode.com/problems/maximal-rectangle/solutions/7484644/histogram-monotonic-stack-time-om-x-n-sp-fb2p",
+    "categories": [
+      "array",
+      "dynamic-programming",
+      "stack"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Number of Islands",
+    "slug": "number-of-islands",
+    "description": "Determine the count of distinct islands in a 2D grid of 1s (land) and 0s (water) using DFS.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/number-of-islands/",
+    "solutionUrl": "https://algo.monster/liteproblems/200",
+    "categories": [
+      "graph",
+      "depth-first-search",
+      "matrix"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Spiral Matrix",
+    "slug": "spiral-matrix",
+    "description": "Traverse a given matrix in a spiral order.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/spiral-matrix/",
+    "solutionUrl": "https://algo.monster/liteproblems/54",
+    "categories": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Rotate Image",
+    "slug": "rotate-image",
+    "description": "Rotate an image represented by an $n \\times n$ matrix by 90 degrees clockwise in place.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/rotate-image/",
+    "solutionUrl": "https://leetcode.com/problems/rotate-image/solutions/7484792/clean-simple-beats-easy-to-understand-ef-alpj",
+    "categories": [
+      "array",
+      "matrix",
+      "in-place-operations"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Minimum Moves to Equal Array Elements",
+    "slug": "minimum-moves-to-equal-array-elements",
+    "description": "Find the minimum moves required to make all elements in an array equal by incrementing n-1 elements by 1 in each move.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+    "solutionUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/solutions/6449676/easy-mathematical-approach-beats-100-by-uipzl",
+    "categories": [
+      "array",
+      "math",
+      "optimization"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Add Binary",
+    "slug": "add-binary",
+    "description": "Add two binary strings and return their sum as a binary string.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://algo.monster/liteproblems/67",
+    "solutionUrl": "https://algo.monster/liteproblems/67",
+    "categories": [
+      "string",
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Maximum Product of Three Numbers",
+    "slug": "maximum-product-of-three-numbers",
+    "description": "Find the maximum product of any three numbers in a given array.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+    "solutionUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/solutions/6725082/master-the-max-triple-product-with-just-vkwwf",
+    "categories": [
+      "array",
+      "math",
+      "sorting"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Excel Sheet Column Title",
+    "slug": "excel-sheet-column-title",
+    "description": "Given a positive integer, return its corresponding column title as it appears in an Excel sheet.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
+    "solutionUrl": "https://algomap.io/question-bank/excel-sheet-column-title",
+    "categories": [
+      "math",
+      "string",
+      "implementation"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "description": "Return an array where each element is the product of all other elements in the input array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/a-product-array-puzzle/",
+    "categories": [
+      "array",
+      "prefix-sum",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Sort Colors",
+    "slug": "sort-colors",
+    "description": "Sort an array containing elements 0, 1, and 2 in place.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/implement-queue-using-stacks",
+    "solutionUrl": "https://algo.monster/liteproblems/75",
+    "categories": [
+      "array",
+      "sorting",
+      "two-pointers"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Longest Repeating Character Replacement",
+    "slug": "longest-repeating-character-replacement",
+    "description": "Find the length of the longest substring with all same characters after performing at most K replacements.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "solutionUrl": "https://algo.monster/liteproblems/424",
+    "categories": [
+      "string",
+      "sliding-window",
+      "hash-map"
+    ],
+    "companies": [
+      "zoho",
+      "ion"
+    ]
+  },
+  {
+    "title": "Permute two arrays such that sum of every pair is greater or equal to K",
+    "slug": "permute-two-arrays-such-that-sum-of-every-pair-is-greater-or-equal-to-k",
+    "description": "Determine if two arrays can be reordered so that the sum of every pair of corresponding elements is at least K.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/permute-two-arrays-sum-every-pair-greater-equal-k/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/permute-two-arrays-sum-every-pair-greater-equal-k/",
+    "categories": [
+      "greedy",
+      "sorting",
+      "array"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Ceiling in a sorted array",
+    "slug": "ceiling-in-a-sorted-array",
+    "description": "Find the smallest element in a sorted array that is greater than or equal to a given value x.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/0",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/0",
+    "categories": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Pair with the given difference",
+    "slug": "pair-with-the-given-difference",
+    "description": "Find a pair of elements in an array whose difference equals a given value.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/find-a-pair-with-the-given-difference/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/find-a-pair-with-the-given-difference/",
+    "categories": [
+      "array",
+      "hash-table",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Permutations",
+    "slug": "permutations",
+    "description": "Generate all possible arrangements of the elements in a given array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/permutations/",
+    "solutionUrl": "https://leetcode.com/problems/permutations/solutions/",
+    "categories": [
+      "backtracking",
+      "array",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Check if reversing a sub array make the array sorted",
+    "slug": "check-if-reversing-a-sub-array-make-the-array-sorted",
+    "description": "Determine if a single reversal of a subarray can make the entire array sorted.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/check-reversing-sub-array-make-array-sorted/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/check-reversing-sub-array-make-array-sorted/",
+    "categories": [
+      "array",
+      "sorting",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Radix Sort",
+    "slug": "radix-sort",
+    "description": "Radix Sort is a non-comparative sorting algorithm that sorts integers by processing individual digits from least significant to most significant.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/radix-sort/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/radix-sort/",
+    "categories": [
+      "sorting",
+      "array",
+      "bucket-sort"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Find Peak Element",
+    "slug": "find-peak-element",
+    "description": "Find an element in an array that is strictly greater than its neighbors.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/find-peak-element/",
+    "solutionUrl": "https://algo.monster/liteproblems/162",
+    "categories": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Allocate minimum number of pages",
+    "slug": "allocate-minimum-number-of-pages",
+    "description": "The problem is to allocate books to a given number of students such that the maximum number of pages assigned to any student is minimized.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+    "categories": [
+      "binary-search",
+      "arrays",
+      "greedy"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Aggressive Cows",
+    "slug": "aggressive-cows",
+    "description": "Determine the largest minimum distance between cows placed in given stalls.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/radix-sort/1",
+    "solutionUrl": "https://leetcode.com/problems/middle-of-the-linked-list/solutions/4834682/beat-10000-full-explanation-with-picture-ydqh",
+    "categories": [
+      "binary-search",
+      "arrays",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Minimum Swaps to Sort",
+    "slug": "minimum-swaps-to-sort",
+    "description": "Determine the minimum number of swaps required to sort an array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/minimum-swaps/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/minimum-swaps/1",
+    "categories": [
+      "array",
+      "sorting",
+      "greedy"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "description": "Search for a target value in an array that was originally sorted but has been rotated at an unknown pivot, with an O(log n) runtime complexity requirement.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "solutionUrl": "https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array",
+    "categories": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Count of Smaller Numbers After Self",
+    "slug": "count-of-smaller-numbers-after-self",
+    "description": "Given an array, return a new array where each element is the count of smaller numbers to its right in the original array.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+    "solutionUrl": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/solutions/6829778/clean-short-solution-using-binary-search-86yl",
+    "categories": [
+      "divide-and-conquer",
+      "array",
+      "merge-sort"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Split Array Largest Sum",
+    "slug": "split-array-largest-sum",
+    "description": "Find the minimum possible value for the largest sum among $k$ or fewer subarrays after splitting the array.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/excel-sheet-column-title",
+    "solutionUrl": "https://takeuforward.org/arrays/split-array-largest-sum",
+    "categories": [
+      "binary-search",
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "First Missing Positive",
+    "slug": "first-missing-positive",
+    "description": "Find the smallest positive integer that is missing from an unsorted array.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/first-missing-positive/",
+    "solutionUrl": "https://neetcode.io/solutions/first-missing-positive",
+    "categories": [
+      "array",
+      "hash-table",
+      "sorting"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Middle of the Linked List",
+    "slug": "middle-of-the-linked-list",
+    "description": "Find the middle node of a singly linked list.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "solutionUrl": "https://leetcode.com/problems/middle-of-the-linked-list/solutions/6776553/2-approaches-beginner-freindlyvisualizat-glv1",
+    "categories": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Linked List Cycle",
+    "slug": "linked-list-cycle",
+    "description": "Determine if a cycle exists in a given linked list.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/linked-list-cycle/",
+    "solutionUrl": "https://leetcode.com/problems/linked-list-cycle/solutions/6556606/0ms-100-step-by-step-explained-with-visu-fpe6",
+    "categories": [
+      "linked-list",
+      "two-pointers",
+      "algorithm"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "slug": "convert-binary-number-in-a-linked-list-to-integer",
+    "description": "Convert a linked list representing a binary number into its integer value.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+    "solutionUrl": "https://algo.monster/liteproblems/1290",
+    "categories": [
+      "linked-list",
+      "bit-manipulation",
+      "math"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Remove Duplicates from Sorted List",
+    "slug": "remove-duplicates-from-sorted-list",
+    "description": "Given the head of a sorted linked list, remove all duplicate values so that each element appears only once, maintaining the sorted order.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/partition-list",
+    "solutionUrl": "https://algo.monster/liteproblems/83",
+    "categories": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Sort a linked list of 0s, 1s and 2s",
+    "slug": "sort-a-linked-list-of-0s-1s-and-2s",
+    "description": "Sort a given linked list containing only the values 0, 1, and 2.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+    "solutionUrl": "https://github.com/Hunterdii/GeeksforGeeks-POTD/blob/main/April%202025%20GFG%20SOLUTION/29(Apr)%20Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s.md",
+    "categories": [
+      "linked-list",
+      "sorting",
+      "two-pointers"
+    ],
+    "companies": [
+      "no-data"
+    ]
+  },
+  {
+    "title": "Remove Linked List Elements",
+    "slug": "remove-linked-list-elements",
+    "description": "Remove all nodes from a linked list that have a specific value.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+    "solutionUrl": "https://algo.monster/liteproblems/203",
+    "categories": [
+      "linked-list",
+      "two-pointers",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "description": "Merge two sorted linked lists into a single sorted list.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "solutionUrl": "https://algo.monster/liteproblems/21",
+    "categories": [
+      "linked-list",
+      "recursion",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Multiply two linked lists",
+    "slug": "multiply-two-linked-lists",
+    "description": "Write a function to multiply two numbers represented by linked lists.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1",
+    "categories": [
+      "linked-list",
+      "math",
+      "simulation"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Intersection of Two Linked Lists",
+    "slug": "intersection-of-two-linked-lists",
+    "description": "The problem is to find the node where two singly linked lists intersect.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "solutionUrl": "https://algo.monster/liteproblems/160",
+    "categories": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Delete nodes having greater value on right",
+    "slug": "delete-nodes-having-greater-value-on-right",
+    "description": "Remove all nodes in a singly linked list that have a node with a greater value appearing on their right.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/reorder-list",
+    "solutionUrl": "https://leetcode.com/problems/remove-nodes-from-linked-list/",
+    "categories": [
+      "linked-list",
+      "stack",
+      "traversal"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Palindrome Linked List",
+    "slug": "palindrome-linked-list",
+    "description": "Determine if a given linked list is a palindrome.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+    "solutionUrl": "https://leetcode.com/problems/palindrome-linked-list/solutions/1137027/js-python-java-c-easy-floyds-reversal-so-pv1b",
+    "categories": [
+      "linked-list",
+      "two-pointers",
+      "stack"
+    ],
+    "companies": [
+      "accenture"
+    ]
+  },
+  {
+    "title": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "description": "Reverse the order of nodes in a given singly linked list.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/reverse-linked-list/",
+    "solutionUrl": "https://neetcode.io/solutions/reverse-linked-list",
+    "categories": [
+      "linked-list",
+      "recursion",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Add Two Numbers",
+    "slug": "add-two-numbers",
+    "description": "Add two numbers represented by linked lists, where each node contains a single digit and the digits are stored in reverse order.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/add-two-numbers/",
+    "solutionUrl": "https://algo.monster/liteproblems/2",
+    "categories": [
+      "linked-list",
+      "math",
+      "pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Copy List with Random Pointer",
+    "slug": "copy-list-with-random-pointer",
+    "description": "Create a deep copy of a linked list where each node contains both a next pointer and a random pointer.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "solutionUrl": "https://algo.monster/liteproblems/138",
+    "categories": [
+      "linked-list",
+      "hash-table",
+      "deep-copy"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Add Two Numbers II",
+    "slug": "add-two-numbers-ii",
+    "description": "Add two numbers represented by linked lists in reverse order.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/add-two-numbers-ii/",
+    "solutionUrl": "https://leetcode.com/problems/add-two-numbers-ii/solutions/6648849/conquer-linked-list-addition-by-string-c-gddb",
+    "categories": [
+      "linked-list",
+      "stack",
+      "math"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Reverse Linked List II",
+    "slug": "reverse-linked-list-ii",
+    "description": "Reverse the nodes of a linked list from position m to n.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+    "solutionUrl": "https://algo.monster/liteproblems/92",
+    "categories": [
+      "linked-list",
+      "two-pointer",
+      "dummy-node"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Reorder List",
+    "slug": "reorder-list",
+    "description": "Reorder a singly linked list so that nodes alternate between the start and end of the original list.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/reorder-list/",
+    "solutionUrl": "https://algo.monster/liteproblems/143",
+    "categories": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Remove Nth Node From End of List",
+    "slug": "remove-nth-node-from-end-of-list",
+    "description": "Remove the specified node from the end of a linked list.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "solutionUrl": "https://algo.monster/liteproblems/19",
+    "categories": [
+      "linked-list",
+      "two-pointers",
+      "pointers"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "slug": "flatten-a-multilevel-doubly-linked-list",
+    "description": "Convert a multilevel doubly linked list, where nodes can have a child linked list, into a single-level doubly linked list.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+    "solutionUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/solutions/7481600/most-optimal-java-approaches-dfs-recursi-za49",
+    "categories": [
+      "linked-list",
+      "doubly-linked-list",
+      "recursion"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Partition List",
+    "slug": "partition-list",
+    "description": "Rearrange a linked list so all nodes less than a given value $x$ precede nodes greater than or equal to $x$, while preserving the original relative order within both partitions.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/reverse-linked-list",
+    "solutionUrl": "https://algo.monster/liteproblems/86",
+    "categories": [
+      "linked-list",
+      "two-pointers",
+      "pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Remove Duplicates from Sorted List II",
+    "slug": "remove-duplicates-from-sorted-list-ii",
+    "description": "Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+    "solutionUrl": "https://algo.monster/liteproblems/82",
+    "categories": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Rearrange a Linked List in Zig-Zag fashion",
+    "slug": "rearrange-a-linked-list-in-zig-zag-fashion",
+    "description": "Rearrange a singly linked list so that nodes alternate between increasing and decreasing order.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/linked-list-in-zig-zag-fashion/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/linked-list-in-zig-zag-fashion/1",
+    "categories": [
+      "linked-list",
+      "sorting",
+      "reordering"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Sort List",
+    "slug": "sort-list",
+    "description": "Sort a given linked list in ascending order.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/sort-list/description/",
+    "solutionUrl": "https://algo.monster/liteproblems/148",
+    "categories": [
+      "linked-list",
+      "sorting"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Segregate even and odd nodes in a Linked List",
+    "slug": "segregate-even-and-odd-nodes-in-a-linked-list",
+    "description": "Rearrange the nodes of a given linked list so that all even number nodes appear before all odd number nodes.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/segregate-even-and-odd-elements-in-a-linked-list/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/segregate-even-and-odd-elements-in-a-linked-list/",
+    "categories": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Rearrange a given linked list in-place",
+    "slug": "rearrange-a-given-linked-list-in-place",
+    "description": "Rearrange the nodes of a given linked list in-place.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/rearrange-a-given-linked-list-in-place/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/rearrange-a-given-linked-list-in-place/",
+    "categories": [
+      "linked-list",
+      "two-pointers",
+      "manipulation"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Merge k Sorted Lists",
+    "slug": "merge-k-sorted-lists",
+    "description": "Merge k sorted linked lists into a single sorted list.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "solutionUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "categories": [
+      "linked-list",
+      "heap-priority-queue",
+      "divide-and-conquer"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Reverse Nodes in k-Group",
+    "slug": "reverse-nodes-in-k-group",
+    "description": "Reverse the nodes of a given linked list in groups of size k.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "solutionUrl": "https://algo.monster/liteproblems/25",
+    "categories": [
+      "recursion",
+      "linked-list"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Subtraction in Linked List",
+    "slug": "subtraction-in-linked-list",
+    "description": "Find the difference between two linked lists representing numbers.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/subtraction-in-linked-list/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/subtraction-in-linked-list/1",
+    "categories": [
+      "linked-list",
+      "math",
+      "hard"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Flattening a Linked List",
+    "slug": "flattening-a-linked-list",
+    "description": "Merge multiple sorted linked lists into a single sorted linked list.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+    "categories": [
+      "linked-list",
+      "divide-and-conquer",
+      "heappriority-queue"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Implement Queue using Stacks",
+    "slug": "implement-queue-using-stacks",
+    "description": "Design a queue data structure using two stacks to support FIFO operations.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "solutionUrl": "https://algo.monster/liteproblems/232",
+    "categories": [
+      "stack",
+      "queue",
+      "design"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Backspace String Compare",
+    "slug": "backspace-string-compare",
+    "description": "Determine if two strings are equal when typed into text editors with backspace functionality.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/backspace-string-compare/",
+    "solutionUrl": "https://neetcode.io/solutions/backspace-string-compare",
+    "categories": [
+      "string",
+      "stack",
+      "two-pointers"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Implement Stack using Queues",
+    "slug": "implement-stack-using-queues",
+    "description": "Design a stack using only the operations available on standard queues (FIFO).",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "solutionUrl": "https://youtu.be/wWnUeY1XkQg",
+    "categories": [
+      "stack",
+      "queue",
+      "design"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Implement Stack and Queue using Deque",
+    "slug": "implement-stack-and-queue-using-deque",
+    "description": "Design a data structure that uses a double-ended queue (Deque) to implement both stack and queue operations.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/implement-stack-queue-using-deque/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/implement-stack-queue-using-deque/",
+    "categories": [
+      "queue"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Next Greater Element I",
+    "slug": "next-greater-element-i",
+    "description": "For each element in the first array, find the first greater element to its right in the second array.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/next-greater-element-i/",
+    "solutionUrl": "https://algo.monster/liteproblems/496",
+    "categories": [
+      "array",
+      "stack",
+      "monotonic-stack"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Evaluation of Postfix Expression",
+    "slug": "evaluation-of-postfix-expression",
+    "description": "Determine the value of an arithmetic expression written in postfix notation using a stack.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+    "solutionUrl": "https://takeuforward.org/data-structure/evaluation-of-postfix-expression",
+    "categories": [
+      "stack",
+      "string",
+      "evaluation"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Implement two stacks in an array",
+    "slug": "implement-two-stacks-in-an-array",
+    "description": "Implement two stacks within a single array where they grow towards each other from opposite ends.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+    "solutionUrl": "https://github.com/imsushant12/GFG-Solutions/blob/main/Implement_two_stacks_in_an_array.cpp",
+    "categories": [
+      "stack",
+      "array",
+      "design"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Daily Temperatures",
+    "slug": "daily-temperatures",
+    "description": "Determine how many days one must wait until a warmer temperature occurs.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/daily-temperatures/",
+    "solutionUrl": "https://algo.monster/liteproblems/739",
+    "categories": [
+      "stack",
+      "array",
+      "monotonic-stack"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Minimum Cost Tree From Leaf Values",
+    "slug": "minimum-cost-tree-from-leaf-values",
+    "description": "Given an array, construct a binary tree where each node is either a leaf (value from the array) or an internal node with a value equal to the product of the largest leaf values in its left and right subtrees, minimizing the sum of all non-leaf node values.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/",
+    "solutionUrl": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/solutions/7067156/super-easy-explanation-beats-100-best-so-ss1x",
+    "categories": [
+      "dynamic-programming",
+      "tree",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Online Stock Span",
+    "slug": "online-stock-span",
+    "description": "Calculate the span of a stock's price for the current day, defined as the maximum number of consecutive days (starting from today and going backward) for which the stock price was less than or equal to the price on the current day.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/online-stock-span/",
+    "solutionUrl": "https://algo.monster/liteproblems/901",
+    "categories": [
+      "stack",
+      "array",
+      "monotonic-stack"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Rotten Oranges",
+    "slug": "rotten-oranges",
+    "description": "Determine the minimum time required for all fresh oranges to rot in a grid where rotten oranges infect adjacent fresh oranges in discrete time steps.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/rotting-oranges/",
+    "solutionUrl": "https://leetcode.com/problems/rotting-oranges/solutions/3166554/c-bfs-easiest-beginner-friendly-sol-on2-54gzi",
+    "categories": [
+      "array",
+      "2d-array",
+      "bfs"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Sum of Subarray Minimums",
+    "slug": "sum-of-subarray-minimums",
+    "description": "Find the sum of minimums of all possible subarrays in a given array.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+    "solutionUrl": "https://youtu.be/bchIzTOW_Qg",
+    "categories": [
+      "stack",
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Evaluate Reverse Polish Notation",
+    "slug": "evaluate-reverse-polish-notation",
+    "description": "Evaluate an arithmetic expression given in Reverse Polish Notation.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "solutionUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "categories": [
+      "stack",
+      "array",
+      "string"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Remove All Adjacent Duplicates in String II",
+    "slug": "remove-all-adjacent-duplicates-in-string-ii",
+    "description": "Repeatedly remove groups of k adjacent and equal characters until no more removals can be made.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
+    "solutionUrl": "https://algo.monster/liteproblems/1209",
+    "categories": [
+      "stack",
+      "string",
+      "data-structure"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Flatten Nested List Iterator",
+    "slug": "flatten-nested-list-iterator",
+    "description": "Implement an iterator to flatten a nested list of integers.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/flatten-nested-list-iterator/",
+    "solutionUrl": "https://youtu.be/N8QehVXYSc0",
+    "categories": [
+      "stack",
+      "design",
+      "iterator"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Maximum of minimum for every window size",
+    "slug": "maximum-of-minimum-for-every-window-size",
+    "description": "Find the maximum of the minimum values for all possible subarrays of a given array.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/prerequisite-tasks/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1",
+    "categories": [
+      "array",
+      "sliding-window",
+      "monotonic-stack"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "LRU Cache",
+    "slug": "lru-cache",
+    "description": "An LRU Cache is a caching strategy that discards the least recently used data when the cache reaches its capacity limit.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/lru-cache/",
+    "solutionUrl": "https://algo.monster/liteproblems/146",
+    "categories": [
+      "design",
+      "hash-table",
+      "doubly-linked-list"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "The Celebrity Problem",
+    "slug": "the-celebrity-problem",
+    "description": "In a group of people, identify the celebrity who is known by everyone but knows no one.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1",
+    "categories": [
+      "array",
+      "graph",
+      "stack"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "The Circular Tour Problem",
+    "slug": "the-circular-tour-problem",
+    "description": "Find the starting petrol pump that allows a truck to complete a circular tour.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+    "solutionUrl": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0134.Gas%20Station/README_EN.md",
+    "categories": [
+      "array",
+      "greedy",
+      "queue"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Diameter of Binary Tree",
+    "slug": "diameter-of-binary-tree",
+    "description": "Find the longest path between any two nodes in a binary tree.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/543",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Invert Binary Tree",
+    "slug": "invert-binary-tree",
+    "description": "Invert the binary tree by recursively swapping the left and right children of every node.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+    "solutionUrl": "https://neetcode.io/solutions/invert-binary-tree",
+    "categories": [
+      "tree",
+      "binary-tree",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Subtree of Another Tree",
+    "slug": "subtree-of-another-tree",
+    "description": "Check if one binary tree is a subtree of another binary tree.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/572",
+    "categories": [
+      "binary-tree",
+      "depth-first-search",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Range Sum of BST",
+    "slug": "range-sum-of-bst",
+    "description": "Find the sum of all node values in a BST that fall within a given range [L, R].",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/range-sum-of-bst/",
+    "solutionUrl": "https://algo.monster/liteproblems/938",
+    "categories": [
+      "binary-search-tree",
+      "depth-first-search",
+      "tree"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Symmetric Tree",
+    "slug": "symmetric-tree",
+    "description": "Determine if a given binary tree is a mirror image of itself.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/symmetric-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/101",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "slug": "convert-sorted-array-to-binary-search-tree",
+    "description": "Convert a sorted array into a height-balanced binary search tree.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/108",
+    "categories": [
+      "tree",
+      "binary-search",
+      "divide-and-conquer"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Merge Two Binary Trees",
+    "slug": "merge-two-binary-trees",
+    "description": "Merge two binary trees by summing the node values when they overlap.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
+    "solutionUrl": "https://leetcode.com/problems/merge-two-binary-trees/solutions/7455338/tree-fusion-java-by-harshanandsah143-7mcx",
+    "categories": [
+      "tree",
+      "binary-tree",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Maximum Depth of Binary Tree",
+    "slug": "maximum-depth-of-binary-tree",
+    "description": "Determine the longest path from the root node down to the farthest leaf node in a binary tree.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/critical-connections-in-a-network",
+    "solutionUrl": "https://algo.monster/liteproblems/104",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Binary Tree Paths",
+    "slug": "binary-tree-paths",
+    "description": "Return all root-to-leaf paths in a binary tree as strings.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs",
+    "solutionUrl": "https://leetcode.com/problems/binary-tree-paths/",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Same Tree",
+    "slug": "same-tree",
+    "description": "Determine if two binary trees are identical.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/same-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/100",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "description": "Find the lowest common ancestor of two given nodes in a Binary Search Tree.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+    "solutionUrl": "https://youtu.be/97miiByezFg",
+    "categories": [
+      "tree",
+      "binary-search-tree",
+      "dfs"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Path Sum",
+    "slug": "path-sum",
+    "description": "Determine if a root-to-leaf path in a binary tree sums to a given target value.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/path-sum/",
+    "solutionUrl": "https://neetcode.io/solutions/path-sum",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Minimum Absolute Difference in BST",
+    "slug": "minimum-absolute-difference-in-bst",
+    "description": "Find the smallest difference between the values of any two nodes in a Binary Search Tree.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+    "solutionUrl": "https://algo.monster/liteproblems/530",
+    "categories": [
+      "binary-search-tree",
+      "tree",
+      "traversal"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Sum of Left Leaves",
+    "slug": "sum-of-left-leaves",
+    "description": "Calculate the sum of all left leaf nodes in a given binary tree.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/sum-of-left-leaves/",
+    "solutionUrl": "https://leetcode.com/problems/sum-of-left-leaves/solutions/7472768/bfs-solution-beats-100-intuition-approac-9o5x",
+    "categories": [
+      "binary-tree",
+      "tree-traversal",
+      "recursiondfs"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Balanced Binary Tree",
+    "slug": "balanced-binary-tree",
+    "description": "A binary tree is balanced if the height difference between the left and right subtrees is no more than one for all nodes.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/steps-by-knight5927/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/steps-by-knight5927/1",
+    "categories": [
+      "tree",
+      "binary-tree",
+      "depth-first-search"
+    ],
+    "companies": [
+      "google",
+      "meta",
+      "and-amazon"
+    ]
+  },
+  {
+    "title": "Predecessor and Successor",
+    "slug": "predecessor-and-successor",
+    "description": "Find the immediate predecessor and successor of a given key in a Binary Search Tree.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "solutionUrl": "https://takeuforward.org/data-structure/inorder-successor-predecessor-in-bst",
+    "categories": [
+      "binary-search-tree",
+      "tree",
+      "traversal"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Binary Tree Inorder Traversal",
+    "slug": "binary-tree-inorder-traversal",
+    "description": "Traverse a binary tree by visiting the left subtree, the root node, and then the right subtree.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+    "solutionUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "categories": [
+      "binary-tree",
+      "tree-traversal",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Check whether BST contains Dead End",
+    "slug": "check-whether-bst-contains-dead-end",
+    "description": "Determine if a Binary Search Tree contains a dead end, which is a node whose value cannot be a part of any range [val-1, val+1] except for itself.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/check-whether-bst-contains-dead-end-not/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/check-whether-bst-contains-dead-end-not/",
+    "categories": [
+      "binary-search-tree",
+      "recursion",
+      "traversal"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Binary Search Tree Iterator",
+    "slug": "binary-search-tree-iterator",
+    "description": "Design an iterator for a Binary Search Tree that supports next() and hasNext() operations.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
+    "solutionUrl": "https://algo.monster/liteproblems/173",
+    "categories": [
+      "stack",
+      "tree",
+      "design"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "description": "Find the lowest node in a binary tree that has both given nodes as descendants.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/236",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Unique Binary Search Trees II",
+    "slug": "unique-binary-search-trees-ii",
+    "description": "Generate all structurally unique Binary Search Trees (BSTs) that store values 1 to n.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+    "solutionUrl": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+    "categories": [
+      "dynamic-programming",
+      "tree",
+      "recursion"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "All Nodes Distance K in Binary Tree",
+    "slug": "all-nodes-distance-k-in-binary-tree",
+    "description": "Find all nodes in a binary tree that are exactly distance K from a given target node.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/863",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Validate Binary Search Tree",
+    "slug": "validate-binary-search-tree",
+    "description": "Determine if a given binary tree is a valid Binary Search Tree (BST).",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/98",
+    "categories": [
+      "tree",
+      "binary-search-tree",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Binary Tree Right Side View",
+    "slug": "binary-tree-right-side-view",
+    "description": "Return the values of the nodes you can see from the right side of the binary tree, ordered from top to bottom.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/graph-coloring-applications/#:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color.",
+    "solutionUrl": "https://www.youtube.com/watch?v=d4zLyf32e3I",
+    "categories": [
+      "tree",
+      "breadth-first-search",
+      "depth-first-search"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Binary Tree Level Order Traversal",
+    "slug": "binary-tree-level-order-traversal",
+    "description": "Traverse a binary tree level by level, from left to right.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "solutionUrl": "https://algo.monster/liteproblems/102",
+    "categories": [
+      "tree",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Path Sum III",
+    "slug": "path-sum-iii",
+    "description": "Count the number of paths in a binary tree that sum up to a given target value.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/path-sum-iii/",
+    "solutionUrl": "https://algo.monster/liteproblems/437",
+    "categories": [
+      "binary-trees",
+      "depth-first-search"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+    "slug": "construct-binary-tree-from-preorder-and-postorder-traversal",
+    "description": "Build a binary tree given its preorder and postorder traversals.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
+    "solutionUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
+    "categories": [
+      "tree",
+      "binary-tree",
+      "recursion"
+    ],
+    "companies": [
+      "amazon",
+      "facebook-meta"
+    ]
+  },
+  {
+    "title": "Unique Binary Search Trees",
+    "slug": "unique-binary-search-trees",
+    "description": "Determine the number of structurally unique Binary Search Trees (BSTs) that can be constructed with n nodes having values from 1 to n.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/unique-binary-search-trees",
+    "solutionUrl": "https://www.youtube.com/watch?v=Ox0TenN3Zpg",
+    "categories": [
+      "dynamic-programming",
+      "tree",
+      "binary-search-tree"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Recover Binary Search Tree",
+    "slug": "recover-binary-search-tree",
+    "description": "Correct two nodes that were mistakenly swapped in a Binary Search Tree.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/99",
+    "categories": [
+      "tree",
+      "binary-search-tree",
+      "inorder-traversal"
+    ],
+    "companies": [
+      "intervue",
+      "interviewbit"
+    ]
+  },
+  {
+    "title": "Populating Next Right Pointers in Each Node",
+    "slug": "populating-next-right-pointers-in-each-node",
+    "description": "Connect all the next right pointers in a perfect binary tree, where all leaves are on the same level.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+    "solutionUrl": "https://algo.monster/liteproblems/116",
+    "categories": [
+      "tree",
+      "breadth-first-search",
+      "linked-list"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Flatten Binary Tree to Linked List",
+    "slug": "flatten-binary-tree-to-linked-list",
+    "description": "Given the root of a binary tree, flatten the tree into a linked list where the right child pointer points to the next node and the left child pointer is null.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+    "solutionUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/6102240/0-ms-runtime-beats-100-user-code-idea-al-g8oc",
+    "categories": [
+      "binary-tree",
+      "linked-list",
+      "recursion"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Maximum Width of Binary Tree",
+    "slug": "maximum-width-of-binary-tree",
+    "description": "Find the maximum width among all levels of a binary tree.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/662",
+    "categories": [
+      "tree",
+      "breadth-first-search-bfs"
+    ],
+    "companies": [
+      "dropbox",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Min distance between two given nodes of a Binary Tree",
+    "slug": "min-distance-between-two-given-nodes-of-a-binary-tree",
+    "description": "Find the shortest path length between two specified nodes in a binary tree.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/cutted-segments1642/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
+    "categories": [
+      "tree",
+      "binary-tree",
+      "depth-first-search"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Kth Smallest Element in a BST",
+    "slug": "kth-smallest-element-in-a-bst",
+    "description": "Find the $k$-th smallest value in a Binary Search Tree.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "solutionUrl": "https://algo.monster/liteproblems/230",
+    "categories": [
+      "binary-search-tree",
+      "tree",
+      "inorder-traversal"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "slug": "binary-tree-zigzag-level-order-traversal",
+    "description": "Traverse the binary tree level by level, alternating the direction of traversal (left-to-right then right-to-left) for each level.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/climbing-stairs",
+    "solutionUrl": "https://algo.monster/liteproblems/103",
+    "categories": [
+      "tree",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Count BST Nodes That Lie In a Given Range",
+    "slug": "count-bst-nodes-that-lie-in-a-given-range",
+    "description": "Count the number of nodes in a Binary Search Tree (BST) whose values fall inclusively within a specified range.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-boxes",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+    "categories": [
+      "binary-search-tree",
+      "tree",
+      "traversal"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Preorder To Postorder",
+    "slug": "preorder-to-postorder",
+    "description": "Convert a given preorder traversal of a binary tree to its postorder traversal.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
+    "solutionUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/solutions/161268/cjavapython-one-pass-real-on-by-lee215-clwi",
+    "categories": [
+      "binary-tree",
+      "traversal",
+      "data-structure"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Binary Tree To DLL",
+    "slug": "binary-tree-to-dll",
+    "description": "Convert a Binary Tree into a sorted Doubly Linked List using the inorder traversal order.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+    "categories": [
+      "binary-tree",
+      "linked-list",
+      "traversal"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Binary Tree Maximum Path Sum",
+    "slug": "binary-tree-maximum-path-sum",
+    "description": "Find the maximum sum path from any node to any node in a binary tree.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "solutionUrl": "https://algo.monster/liteproblems/124",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Sum of Distances in Tree",
+    "slug": "sum-of-distances-in-tree",
+    "description": "Calculate the sum of distances from every node to all other nodes in a given undirected connected tree.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/sum-of-distances-in-tree/",
+    "solutionUrl": "https://leetcode.com/problems/sum-of-distances-in-tree/solutions/5083475/full-detailed-explanation-with-images-by-r4sf",
+    "categories": [
+      "tree",
+      "dfs",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Binary Tree Cameras",
+    "slug": "binary-tree-cameras",
+    "description": "Find the minimum number of cameras required to monitor all nodes in a binary tree, where a camera on a node monitors itself, its parent, and its immediate children.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "solutionUrl": "https://leetcode.com/problems/binary-tree-cameras/",
+    "categories": [
+      "tree",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "slug": "vertical-order-traversal-of-a-binary-tree",
+    "description": "Group nodes by their vertical column positions, ordered from left to right, and from top to bottom within each column.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+    "solutionUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/solutions/7018292/beats-9953-easy-explanation-and-code-usi-4it9",
+    "categories": [
+      "binary-tree",
+      "breadth-first-search",
+      "hash-map"
+    ],
+    "companies": [
+      "amazon"
+    ]
+  },
+  {
+    "title": "Print all K-Sum Paths in a Binary Tree",
+    "slug": "print-all-k-sum-paths-in-a-binary-tree",
+    "description": "Find all paths in a binary tree where the sum of the nodes equals a given value K.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/javascript/count-all-k-sum-paths-in-a-binary-tree-using-javascript/",
+    "solutionUrl": "https://www.geeksforgeeks.org/javascript/count-all-k-sum-paths-in-a-binary-tree-using-javascript/",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "recursion"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Serialize and Deserialize Binary Tree",
+    "slug": "serialize-and-deserialize-binary-tree",
+    "description": "Convert a binary tree into a string for storage or transmission, and then reconstruct the original tree from that string.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/297",
+    "categories": [
+      "binary-tree",
+      "data-structure",
+      "dfsbfs"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Median of BST",
+    "slug": "median-of-bst",
+    "description": "Find the median value of all nodes in a Binary Search Tree.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/find-median-bst-time-o1-space/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/find-median-bst-time-o1-space/",
+    "categories": [
+      "binary-search-tree",
+      "tree-traversal",
+      "array"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Largest BST",
+    "slug": "largest-bst",
+    "description": "Find the subtree with the maximum number of nodes that is also a valid Binary Search Tree (BST).",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/largest-bst/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/largest-bst/1",
+    "categories": [
+      "tree",
+      "binary-search-tree",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "slug": "construct-binary-search-tree-from-preorder-traversal",
+    "description": "Construct a Binary Search Tree (BST) from a given preorder traversal array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/construct-bst-from-given-preorder-traversa/",
+    "categories": [
+      "tree",
+      "binary-search-tree",
+      "recursion"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "BFS of graph",
+    "slug": "bfs-of-graph",
+    "description": "Breadth-First Search (BFS) is an algorithm for traversing or searching tree or graph data structures.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "solutionUrl": "https://youtu.be/ggKAoRvtRco",
+    "categories": [
+      "graph",
+      "breadth-first-search",
+      "queue"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "DFS of Graph",
+    "slug": "dfs-of-graph",
+    "description": "Depth First Search (DFS) is an algorithm for traversing or searching tree or graph data structures.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+    "categories": [
+      "graph",
+      "dfs",
+      "traversal"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Number of Islands",
+    "slug": "number-of-islands",
+    "description": "Find the number of isolated groups of 1s in a 2D binary grid.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/number-of-islands/",
+    "solutionUrl": "https://youtu.be/HpinqiqiXUQ",
+    "categories": [
+      "graph",
+      "bfs",
+      "dfs"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Flood Fill",
+    "slug": "flood-fill",
+    "description": "Recursively replace the color of a starting pixel and all adjacent pixels of the same color with a new color.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/flood-fill/",
+    "solutionUrl": "https://leetcode.com/problems/flood-fill/solutions/6741421/master-flood-fill-with-simple-dfs-on-and-erok",
+    "categories": [
+      "graph",
+      "depth-first-search",
+      "breadth-first-search"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Rat in a Maze Problem - I",
+    "slug": "rat-in-a-maze-problem-i",
+    "description": "Find all possible paths for a rat to travel from a starting cell (0, 0) to a destination cell (N-1, N-1) in a given N*N matrix, moving only in allowed directions (U, D, L, R).",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-path-sum",
+    "solutionUrl": "https://takeuforward.org/data-structure/rat-in-a-maze",
+    "categories": [
+      "backtracking",
+      "dfs",
+      "matrix"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Cycle in Undirected Graph",
+    "slug": "cycle-in-undirected-graph",
+    "description": "Determine if there is a cycle present in the given undirected graph.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+    "categories": [
+      "graph",
+      "depth-first-search",
+      "algorithms"
+    ],
+    "companies": [
+      "goldman-sachs",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Detect cycle in a directed graph",
+    "slug": "detect-cycle-in-a-directed-graph",
+    "description": "Determine if a cycle exists within a directed graph.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+    "categories": [
+      "graph",
+      "depth-first-search",
+      "topological-sort"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Steps by Knight",
+    "slug": "steps-by-knight",
+    "description": "Find the minimum number of steps a knight needs to reach a target position on a chessboard.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximum-length-of-repeated-subarray",
+    "solutionUrl": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/solutions/1324248/cpython-dp-kmp-hashing-solutions-clean-c-zf2p",
+    "categories": [
+      "graph",
+      "breadth-first-search",
+      "matrix"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Decode String",
+    "slug": "decode-string",
+    "description": "Given an encoded string with the rule $k$[encoded_string] (where the encoded string is repeated $k$ times), return its decoded string.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/decode-string/",
+    "solutionUrl": "https://algo.monster/liteproblems/394",
+    "categories": [
+      "string",
+      "stack",
+      "recursion"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Shortest Bridge",
+    "slug": "shortest-bridge",
+    "description": "Find the minimum number of 0s (water cells) that must be flipped to 1s (land cells) to connect two separate islands (groups of 1s).",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/shortest-bridge/",
+    "solutionUrl": "https://algo.monster/liteproblems/934",
+    "categories": [
+      "graph",
+      "bfs",
+      "matrix"
+    ],
+    "companies": [
+      "microsoft",
+      "google"
+    ]
+  },
+  {
+    "title": "Number of Operations to Make Network Connected",
+    "slug": "number-of-operations-to-make-network-connected",
+    "description": "Determine the minimum number of cable moves needed to connect all computers in a network.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+    "solutionUrl": "https://algo.monster/liteproblems/1319",
+    "categories": [
+      "graph",
+      "breadth-first-search",
+      "depth-first-search"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Find Eventual Safe States",
+    "slug": "find-eventual-safe-states",
+    "description": "Find all nodes in a directed graph that are part of an eventual safe state.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+    "solutionUrl": "https://algo.monster/liteproblems/802",
+    "categories": [
+      "graph",
+      "dfs",
+      "bfs"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Strongly Connected Components (Kosaraju's Algo)",
+    "slug": "strongly-connected-components-kosarajus-algo",
+    "description": "Kosaraju's Algorithm finds the strongly connected components in a directed graph.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/discuss/interview-question/1292774/strongly-connected-components-kosarajus-algorithm-template/",
+    "solutionUrl": "https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54",
+    "categories": [
+      "graph",
+      "depth-first-search",
+      "algorithms"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "description": "Find the city connected to the fewest other cities within a given distance threshold.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/lru-cache",
+    "solutionUrl": "https://youtu.be/XM0eVHfKyF4",
+    "categories": [
+      "graph",
+      "shortest-path",
+      "floyd-warshall"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Time Needed to Inform All Employees",
+    "slug": "time-needed-to-inform-all-employees",
+    "description": "Calculate the minimum time required for the head of a company to inform all employees about urgent news in an organizational hierarchy.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/time-needed-to-inform-all-employees/",
+    "solutionUrl": "https://algo.monster/liteproblems/1376",
+    "categories": [
+      "tree",
+      "depth-first-search",
+      "graph"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Graph Coloring",
+    "slug": "graph-coloring",
+    "description": "Determine the minimum number of colors needed to color a graph's vertices so that no two adjacent vertices share the same color.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+    "solutionUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/solutions/4575287/java-c-python-javascript-o1-really-fast-hqzy1",
+    "categories": [
+      "graph",
+      "backtracking",
+      "depth-first-search"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "As Far from Land as Possible",
+    "slug": "as-far-from-land-as-possible",
+    "description": "Find the maximum distance from a water cell to the nearest land cell in a given grid.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/as-far-from-land-as-possible/",
+    "solutionUrl": "https://leetcode.com/problems/as-far-from-land-as-possible/solutions/3166138/day-41-c-bfs-easiest-beginner-friendly-a-z1ms",
+    "categories": [
+      "graph",
+      "breadth-first-search",
+      "matrix"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Most Stones Removed with Same Row or Column",
+    "slug": "most-stones-removed-with-same-row-or-column",
+    "description": "Find the maximum number of stones that can be removed from a 2D plane, where a stone can be removed if it shares a row or column with an unremoved stone.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+    "solutionUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/solutions/7491097/95-faster-java-dfs-and-dsuunion-find-wit-82kk",
+    "categories": [
+      "graph",
+      "union-find",
+      "depth-first-search"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Prerequisite Task",
+    "slug": "prerequisite-task",
+    "description": "Determine if all tasks can be completed given a list of prerequisites.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/range-sum-query-mutable",
+    "solutionUrl": "https://songhayoung.github.io/2022/05/26/PS/GeeksforGeeks/prerequisite-tasks/",
+    "categories": [
+      "graph",
+      "topological-sort",
+      "depth-first-search-dfs"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "All-pairs shortest path problem",
+    "slug": "all-pairs-shortest-path-problem",
+    "description": "Find the shortest path between every pair of vertices in a weighted graph.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/shortest-path-algorithms-a-complete-guide/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/shortest-path-algorithms-a-complete-guide/",
+    "categories": [
+      "graph",
+      "dynamic-programming",
+      "shortest-path"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Evaluate Division",
+    "slug": "evaluate-division",
+    "description": "Evaluate a set of given division equations to determine the value of new division queries.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/evaluate-division/",
+    "solutionUrl": "https://algo.monster/liteproblems/399",
+    "categories": [
+      "graph",
+      "depth-first-search",
+      "breadth-first-search"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Snakes and Ladders",
+    "slug": "snakes-and-ladders",
+    "description": "Find the minimum number of dice rolls required to reach the final square on a Snakes and Ladders board.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/snakes-and-ladders/",
+    "solutionUrl": "https://algo.monster/liteproblems/909",
+    "categories": [
+      "breadth-first-search",
+      "graph",
+      "queue"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Topological Sorting",
+    "slug": "topological-sorting",
+    "description": "A linear ordering of vertices in a directed acyclic graph (DAG) such that for every directed edge from vertex u to vertex v, vertex u comes before vertex v in the ordering.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/sum-of-left-leaves",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+    "categories": [
+      "graph",
+      "graph-theory",
+      "algorithm"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Cheapest Flights Within K Stops",
+    "slug": "cheapest-flights-within-k-stops",
+    "description": "Find the minimum cost to travel from a source city to a destination city with at most K stops.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "solutionUrl": "https://algo.monster/liteproblems/787",
+    "categories": [
+      "dynamic-programming",
+      "graph",
+      "shortest-path"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Detect a negative cycle in a Graph | (Bellman Ford)",
+    "slug": "detect-a-negative-cycle-in-a-graph-bellman-ford",
+    "description": "Determine if a graph contains a cycle where the sum of edge weights is negative using the Bellman-Ford algorithm.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/detect-negative-cycle-graph-bellman-ford/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/detect-negative-cycle-graph-bellman-ford/",
+    "categories": [
+      "graph",
+      "bellman-ford",
+      "shortest-path"
+    ],
+    "companies": [
+      "no-data"
+    ]
+  },
+  {
+    "title": "Bipartite Graph",
+    "slug": "bipartite-graph",
+    "description": "A bipartite graph is a graph whose vertices can be divided into two disjoint and independent sets, such that every edge connects a vertex in one set to one in the other set (i.e., it is 2-colorable).",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+    "solutionUrl": "https://algo.monster/liteproblems/785",
+    "categories": [
+      "graph",
+      "breadth-first-search-bfs",
+      "depth-first-search-dfs"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Longest Increasing Path in a Matrix",
+    "slug": "longest-increasing-path-in-a-matrix",
+    "description": "Find the length of the longest path in a matrix such that all elements along the path are strictly increasing.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+    "solutionUrl": "https://algo.monster/liteproblems/329",
+    "categories": [
+      "dynamic-programming",
+      "depth-first-search",
+      "matrix"
+    ],
+    "companies": [
+      "oracle"
+    ]
+  },
+  {
+    "title": "Making A Large Island",
+    "slug": "making-a-large-island",
+    "description": "Find the maximum island size achievable by changing at most one water cell (0) to land (1) in a binary grid.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/making-a-large-island/",
+    "solutionUrl": "https://algo.monster/liteproblems/827",
+    "categories": [
+      "depth-first-search",
+      "breadth-first-search",
+      "matrix"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Remove Boxes",
+    "slug": "remove-boxes",
+    "description": "Given several boxes with colored labels, find the maximum points you can get by removing K consecutive boxes of the same color.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-boxes/",
+    "solutionUrl": "https://leetcode.com/problems/remove-boxes/solutions/1402561/cjavapython-top-down-dp-clear-explanatio-0fxk",
+    "categories": [
+      "dynamic-programming",
+      "recursion",
+      "array"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Alien Dictionary",
+    "slug": "alien-dictionary",
+    "description": "Given a lexicographically sorted list of words from a new language, determine the valid order of letters in that language.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "solutionUrl": "https://neetcode.io/solutions/alien-dictionary",
+    "categories": [
+      "graph",
+      "topological-sort",
+      "string"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Critical Connections in a Network",
+    "slug": "critical-connections-in-a-network",
+    "description": "Identify all the bridges in a network graph, which are edges whose removal increases the number of connected components.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/critical-connections-in-a-network/",
+    "solutionUrl": "https://algo.monster/liteproblems/1192",
+    "categories": [
+      "graph",
+      "depth-first-search",
+      "biconnectivity"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Water Jug problem using BFS",
+    "slug": "water-jug-problem-using-bfs",
+    "description": "Find the minimum number of steps to measure exactly a target amount of water using two jugs with given capacities.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/water-and-jug-problem/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/two-water-jug-puzzle/",
+    "categories": [
+      "graph",
+      "breadth-first-search",
+      "state-space-search"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Travelling Salesman Problem using Dynamic Programming",
+    "slug": "travelling-salesman-problem-using-dynamic-programming",
+    "description": "Find the shortest possible route that visits every city exactly once and returns to the origin city.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/travelling-salesman-problem-using-dynamic-programming/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/travelling-salesman-problem-using-dynamic-programming/",
+    "categories": [
+      "dynamic-programming",
+      "graph",
+      "optimization"
+    ],
+    "companies": [
+      "google"
+    ]
+  },
+  {
+    "title": "Total number of Spanning Trees in a Graph",
+    "slug": "total-number-of-spanning-trees-in-a-graph",
+    "description": "Find the total count of distinct spanning trees within a given graph.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/total-number-spanning-trees-graph/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/total-number-spanning-trees-graph/",
+    "categories": [
+      "graph-theory",
+      "matrix-tree-theorem",
+      "counting"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Minimize Cash Flow among a given set of friends who have borrowed",
+    "slug": "minimize-cash-flow-among-given-set-of-friends-who-have-borrowed",
+    "description": "Determine the minimum number of transactions required to settle all debts among friends.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/predecessor-and-successor/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+    "categories": [
+      "greedy",
+      "graph",
+      "optimization"
+    ],
+    "companies": [
+      "goldman-sachs",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Redundant Connection",
+    "slug": "redundant-connection",
+    "description": "Find the extra edge in a graph that was originally a tree, such that removing it results in a tree again.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+    "categories": [
+      "graph",
+      "depth-first-search",
+      "union-find"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Design Add and Search Words Data Structure",
+    "slug": "design-add-and-search-words-data-structure",
+    "description": "Design a data structure that supports adding new words and searching for a word that may contain wildcards.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+    "solutionUrl": "https://algo.monster/liteproblems/211",
+    "categories": [
+      "trie",
+      "design",
+      "hash-table"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Word Break (Trie)",
+    "slug": "word-break-trie",
+    "description": "Determine if a string can be segmented into a space-separated sequence of one or more dictionary words using a Trie data structure.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/word-break-trie--141631/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/word-break-problem-trie-solution/",
+    "categories": [
+      "trie",
+      "dynamic-programming",
+      "string"
+    ],
+    "companies": [
+      "zoho",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Implement Trie (Prefix Tree)",
+    "slug": "implement-trie-prefix-tree",
+    "description": "Design a data structure that implements a trie, or prefix tree, supporting insertion and search operations.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "solutionUrl": "https://algo.monster/liteproblems/208",
+    "categories": [
+      "trie",
+      "design",
+      "string"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Palindrome Pairs",
+    "slug": "palindrome-pairs",
+    "description": "Find all unique pairs of indices such that the concatenation of the two words forms a palindrome.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/palindrome-pairs/",
+    "solutionUrl": "https://algo.monster/liteproblems/336",
+    "categories": [
+      "trie",
+      "string",
+      "hashing"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Design Phone Directory",
+    "slug": "design-phone-directory",
+    "description": "Design a data structure to manage and allocate phone numbers efficiently.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1",
+    "solutionUrl": "https://algo.monster/liteproblems/379",
+    "categories": [
+      "design",
+      "hash-table",
+      "data-structure"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Top K Frequent Elements",
+    "slug": "top-k-frequent-elements",
+    "description": "Find the K most frequently occurring elements in a given array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "solutionUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "categories": [
+      "array",
+      "hash-table",
+      "heap-priority-queue"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Kth Largest Element in an Array",
+    "slug": "kth-largest-element-in-an-array",
+    "description": "Find the Kth largest element in a given unsorted array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "solutionUrl": "https://youtu.be/yiUjLay-ocI",
+    "categories": [
+      "array",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Ugly Number II",
+    "slug": "ugly-number-ii",
+    "description": "Find the nth ugly number, where ugly numbers are positive integers whose prime factors are limited to 2, 3, and 5.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/n-queens",
+    "solutionUrl": "https://leetcode.com/problems/n-queens/solutions/7036086/general-approach-for-all-backtracking-qu-4az5",
+    "categories": [
+      "dynamic-programming",
+      "math",
+      "heap-or-priority-queue"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Furthest Building You Can Reach",
+    "slug": "furthest-building-you-can-reach",
+    "description": "Determine the furthest building you can reach using a limited number of bricks and ladders.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/furthest-building-you-can-reach/",
+    "solutionUrl": "https://leetcode.com/problems/furthest-building-you-can-reach/",
+    "categories": [
+      "greedy",
+      "array",
+      "priority-queue"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "slug": "kth-smallest-element-in-a-sorted-matrix",
+    "description": "Find the Kth smallest element in a matrix where each row and column is sorted.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/palindrome-partitioning",
+    "solutionUrl": "https://leetcode.com/problems/palindrome-partitioning/solutions/1667647/well-explained-java-c-python-javascript-i1n30",
+    "categories": [
+      "array",
+      "binary-search",
+      "heap-priority-queue"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Reorganize String",
+    "slug": "reorganize-string",
+    "description": "Rearrange the characters of a string so that no two adjacent characters are the same.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/reorganize-string/",
+    "solutionUrl": "https://youtu.be/AN6dVKlQG5U",
+    "categories": [
+      "string",
+      "greedy",
+      "heappriority-queue"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Find the Most Competitive Subsequence",
+    "slug": "find-the-most-competitive-subsequence",
+    "description": "Find the lexicographically smallest subsequence of size k from a given integer array.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/find-the-most-competitive-subsequence/",
+    "solutionUrl": "https://algo.monster/liteproblems/1673",
+    "categories": [
+      "array",
+      "greedy",
+      "stack"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Largest subarray with 0 sum",
+    "slug": "largest-subarray-with-0-sum",
+    "description": "Find the length of the longest contiguous subarray whose elements sum up to zero.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+    "categories": [
+      "array",
+      "hash",
+      "data-structures"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "K Closest Points to Origin",
+    "slug": "k-closest-points-to-origin",
+    "description": "Find the K points in a list that are closest to the origin (0, 0) in a 2D plane.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/find-k-closest-points-to-the-origin/",
+    "categories": [
+      "array",
+      "sorting",
+      "heap"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Minimum Number of Refueling Stops",
+    "slug": "minimum-number-of-refueling-stops",
+    "description": "Find the minimum number of times a car must refuel to reach a target destination.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+    "solutionUrl": "https://algo.monster/liteproblems/871",
+    "categories": [
+      "greedy",
+      "dynamic-programming",
+      "heap"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Minimum Cost to Hire K Workers",
+    "slug": "minimum-cost-to-hire-k-workers",
+    "description": "Find the minimum cost to hire exactly K workers, where each worker's pay must meet their minimum expectation and be proportional to their quality relative to the most expensive worker's ratio.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+    "solutionUrl": "https://algo.monster/liteproblems/857",
+    "categories": [
+      "greedy",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Swim in Rising Water",
+    "slug": "swim-in-rising-water",
+    "description": "Find the minimum time 't' required to swim from the top-left to the bottom-right of a grid where the elevation determines the water depth.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/swim-in-rising-water/",
+    "solutionUrl": "https://youtu.be/8Q_-9Yj_e1E",
+    "categories": [
+      "graph",
+      "binary-search",
+      "heap-priority-queue"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Sliding Window Maximum",
+    "slug": "sliding-window-maximum",
+    "description": "Find the maximum element in a sliding window of size k for an array.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+    "solutionUrl": "https://algo.monster/liteproblems/239",
+    "categories": [
+      "array",
+      "sliding-window",
+      "monotonic-queue"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Climbing Stairs",
+    "slug": "climbing-stairs",
+    "description": "Determine the number of distinct ways to climb to the top of a staircase with n steps, where you can climb either 1 or 2 steps at a time.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://codeanddebug.in/blog/climbing-stairs-leetcode-70/",
+    "solutionUrl": "https://algomap.io/problems/climbing-stairs",
+    "categories": [
+      "dynamic-programming",
+      "recursion",
+      "fibonacci-sequence"
+    ],
+    "companies": [
+      "paypal"
+    ]
+  },
+  {
+    "title": "Maximum Product Subarray",
+    "slug": "maximum-product-subarray",
+    "description": "Find the contiguous subarray within a given array that has the largest product.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+    "solutionUrl": "https://algo.monster/liteproblems/152",
+    "categories": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Ones and Zeroes",
+    "slug": "ones-and-zeroes",
+    "description": "Find the maximum number of strings you can form from a given number of '0's and '1's.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/ones-and-zeroes/",
+    "solutionUrl": "https://algo.monster/liteproblems/474",
+    "categories": [
+      "dynamic-programming",
+      "array",
+      "string"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Counting Bits",
+    "slug": "counting-bits",
+    "description": "Count the number of set bits (1s) in the binary representation of every number from 0 up to a given non-negative integer.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/counting-bits/",
+    "solutionUrl": "https://youtu.be/24ieN85axOU",
+    "categories": [
+      "bit-manipulation",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Knight Dialer",
+    "slug": "knight-dialer",
+    "description": "Find the number of distinct phone numbers of a given length that can be formed using a knight's moves on a standard phone keypad.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://algo.monster/liteproblems/935",
+    "solutionUrl": "https://algo.monster/liteproblems/935",
+    "categories": [
+      "dynamic-programming",
+      "graph",
+      "math"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Maximize The Cut Segments",
+    "slug": "maximize-the-cut-segments",
+    "description": "Determine the maximum number of segments that can be cut from a rod of a given length, where each segment must have one of three specified lengths.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/4sum",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/maximize-the-number-of-segments-of-length-p-q-and-r/",
+    "categories": [
+      "dynamic-programming",
+      "recursion",
+      "optimization"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Unique Paths",
+    "slug": "unique-paths",
+    "description": "Find the number of unique paths from the top-left corner to the bottom-right corner of a grid.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/unique-paths/",
+    "solutionUrl": "https://algo.monster/liteproblems/62",
+    "categories": [
+      "dynamic-programming",
+      "math",
+      "matrix"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Find the Duplicate Number",
+    "slug": "minimum-path-sum",
+    "description": "Find the minimum path sum from the top-left to the bottom-right of a grid filled with non-negative numbers.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-path-sum/",
+    "solutionUrl": "https://leetcode.com/problems/minimum-path-sum/solutions/3345656/pythonjava-csimple-solutioneasy-to-under-occy",
+    "categories": [
+      "dynamic-programming",
+      "array",
+      "matrix"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Decode Ways",
+    "slug": "coin-change",
+    "description": "Find the minimum number of coins needed to make up a given total amount.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/coin-change/",
+    "solutionUrl": "https://youtu.be/IrHPiwWUTKw",
+    "categories": [
+      "dynamic-programming",
+      "array",
+      "recursion"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Decode Ways",
+    "slug": "decode-ways",
+    "description": "Determine the number of ways a string of digits can be decoded as letters, given a mapping.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/decode-ways/",
+    "solutionUrl": "https://algo.monster/liteproblems/91",
+    "categories": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Maximum Length of Repeated Subarray",
+    "slug": "maximum-length-of-repeated-subarray",
+    "description": "Find the longest common subarray between two given arrays.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/move-zeroes",
+    "solutionUrl": "https://algo.monster/liteproblems/718",
+    "categories": [
+      "dynamic-programming",
+      "array"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Sort Colors",
+    "slug": "longest-increasing-subsequence",
+    "description": "Find the length of the longest subsequence of a given array such that all elements of the subsequence are sorted in increasing order.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "solutionUrl": "https://youtu.be/ggKAoRvtRco",
+    "categories": [
+      "dynamic-programming",
+      "binary-search",
+      "array"
+    ],
+    "companies": [
+      "google",
+      "amazon",
+      "meta"
+    ]
+  },
+  {
+    "title": "Count Square Submatrices with All Ones",
+    "slug": "longest-common-substring",
+    "description": "Find the longest contiguous string that is shared as a substring by two or more given strings.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/sort-colors",
+    "solutionUrl": "https://youtu.be/fqhlSQlXjlk",
+    "categories": [
+      "string",
+      "dynamic-programming",
+      "substring"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Count Square Submatrices with All Ones",
+    "slug": "count-square-submatrices-with-all-ones",
+    "description": "Return how many square submatrices have all ones in a given m * n matrix of ones and zeros.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+    "solutionUrl": "https://algo.monster/liteproblems/1277",
+    "categories": [
+      "dynamic-programming",
+      "matrix",
+      "array"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Maximal Square",
+    "slug": "maximal-square",
+    "description": "Find the largest square submatrix consisting of only 1s in a given binary matrix.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/merge-sorted-array",
+    "solutionUrl": "https://algo.monster/liteproblems/221",
+    "categories": [
+      "dynamic-programming",
+      "array",
+      "matrix"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Mobile Numeric Keypad Problem",
+    "slug": "mobile-numeric-keypad-problem",
+    "description": "Find the number of unique numeric sequences of length 'n' that can be formed on a mobile keypad by pressing adjacent keys (up, down, left, right) or the same key.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/mobile-numeric-keypad-problem/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/mobile-numeric-keypad-problem/",
+    "categories": [
+      "dynamic-programming",
+      "recursion",
+      "matrix"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Job Sequencing Problem",
+    "slug": "job-sequencing-problem",
+    "description": "Find the maximum profit by selecting a subset of jobs with deadlines, where each job takes one unit of time.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+    "categories": [
+      "greedy",
+      "sorting",
+      "scheduling"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Delete and Earn",
+    "slug": "delete-and-earn",
+    "description": "Find the maximum points you can earn by deleting a number in an array and subsequently deleting all elements one less and one greater than it.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/delete-and-earn/",
+    "solutionUrl": "https://leetcode.com/problems/delete-and-earn/",
+    "categories": [
+      "dynamic-programming",
+      "array",
+      "greedy"
+    ],
+    "companies": [
+      "google",
+      "uber"
+    ]
+  },
+  {
+    "title": "Range Sum Query 2D - Immutable",
+    "slug": "range-sum-query-2d-immutable",
+    "description": "Design a data structure that can efficiently compute the sum of the elements within any rectangular region of a given 2D immutable matrix.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+    "solutionUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable/solutions/7103350/beats-100-graphical-guide-from-naive-1d-lm2vx",
+    "categories": [
+      "dynamic-programming",
+      "design",
+      "matrix"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Optimal Binary Search Tree",
+    "slug": "optimal-binary-search-tree",
+    "description": "Find the arrangement of keys in a Binary Search Tree (BST) that minimizes the total search cost.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/optimal-binary-search-tree-dp-24/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/optimal-binary-search-tree-dp-24/",
+    "categories": [
+      "dynamic-programming",
+      "tree",
+      "binary-search-tree"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Frog Jump",
+    "slug": "frog-jump",
+    "description": "Determine the minimum energy required for a frog to cross a series of heights.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/frog-jump/",
+    "solutionUrl": "https://youtu.be/dvoouRUguvw",
+    "categories": [
+      "dynamic-programming",
+      "array"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock IV",
+    "slug": "best-time-to-buy-and-sell-stock-iv",
+    "description": "Find the maximum profit achievable from at most k transactions given an array of stock prices.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+    "solutionUrl": "https://algo.monster/liteproblems/188",
+    "categories": [
+      "dynamic-programming",
+      "array"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+    "description": "Determine the minimum number of insertions required to make a given string a palindrome.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+    "solutionUrl": "https://algo.monster/liteproblems/1312",
+    "categories": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Trapping Rain Water",
+    "slug": "trapping-rain-water",
+    "description": "Calculate how much rainwater can be trapped between blocks of varying heights.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/sliding-window-maximum",
+    "solutionUrl": "https://leetcode.com/problems/trapping-rain-water/",
+    "categories": [
+      "array",
+      "two-pointers",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Minimum Cost to Merge Stones",
+    "slug": "minimum-cost-to-merge-stones",
+    "description": "Find the minimum cost to merge piles of stones into one pile, where the cost is the sum of the stones in the merged pile.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-cost-to-merge-stones/",
+    "solutionUrl": "https://algo.monster/liteproblems/1000",
+    "categories": [
+      "dynamic-programming",
+      "greedy",
+      "prefix-sum"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Count Different Palindromic Subsequences",
+    "slug": "count-different-palindromic-subsequences",
+    "description": "Determine the number of distinct non-empty palindromic subsequences in a given string.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1",
+    "solutionUrl": "https://algo.monster/liteproblems/730",
+    "categories": [
+      "dynamic-programming",
+      "string",
+      "palindrome"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Maximal Rectangle",
+    "slug": "maximal-rectangle",
+    "description": "Find the largest rectangle containing only ones in a binary matrix.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximal-rectangle/",
+    "solutionUrl": "https://algo.monster/liteproblems/85",
+    "categories": [
+      "array",
+      "dynamic-programming",
+      "stack"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Burst Balloons",
+    "slug": "burst-balloons",
+    "description": "Maximize the coins collected by bursting balloons in a specific order, where bursting a balloon yields coins based on its neighbors.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/burst-balloons/",
+    "solutionUrl": "https://leetcode.com/problems/burst-balloons/solutions/1659268/c-easy-to-understand-all-intuitions-step-fgrn",
+    "categories": [
+      "dynamic-programming",
+      "array"
+    ],
+    "companies": [
+      "google",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Super Egg Drop",
+    "slug": "super-egg-drop",
+    "description": "Determine the minimum number of moves required to find the critical floor from which an egg will not break, given a number of eggs and floors.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/super-egg-drop/",
+    "solutionUrl": "https://leetcode.com/problems/super-egg-drop/solutions/7486519/super-egg-drop-easy-from-tle-to-optimize-n4u9",
+    "categories": [
+      "dynamic-programming",
+      "binary-search",
+      "mathematics"
+    ],
+    "companies": [
+      "microsoft",
+      "google"
+    ]
+  },
+  {
+    "title": "Partition Equal Subset Sum",
+    "slug": "partition-equal-subset-sum",
+    "description": "Determine if an array of positive integers can be partitioned into two subsets with equal sums.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+    "solutionUrl": "https://algo.monster/liteproblems/416",
+    "categories": [
+      "dynamic-programming",
+      "array",
+      "subset"
+    ],
+    "companies": [
+      "no-data"
+    ]
+  },
+  {
+    "title": "Gas Station",
+    "slug": "gas-station",
+    "description": "Find the starting gas station index that allows a full circular tour.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/gas-station/",
+    "solutionUrl": "https://leetcode.com/problems/gas-station/",
+    "categories": [
+      "greedy",
+      "array",
+      "queue"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Minimum Cost For Acquiring All Coins With K Extra Coins Allowed With Every Coin",
+    "slug": "minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin",
+    "description": "Find the minimum total cost to acquire all coins, considering that for every coin bought, K additional coins can be obtained for free.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/",
+    "categories": [
+      "greedy",
+      "array",
+      "sorting"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Restore the Array From Adjacent Pairs",
+    "slug": "restore-the-array-from-adjacent-pairs",
+    "description": "Reconstruct the original array given a list of all its adjacent element pairs.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/",
+    "solutionUrl": "https://algo.monster/liteproblems/1743",
+    "categories": [
+      "graph",
+      "depth-first-search",
+      "array"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Task Scheduler",
+    "slug": "task-scheduler",
+    "description": "The Task Scheduler is a utility that automates the execution of programs or scripts at specific times or in response to system events.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/task-scheduler/",
+    "solutionUrl": "https://leetcode.com/problems/task-scheduler/solutions/3280549/full-explanation-using-priority-queue-an-86fw",
+    "categories": [
+      "array",
+      "greedy",
+      "queue"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Minimum Deletions to Make Character Frequencies Unique",
+    "slug": "minimum-deletions-to-make-character-frequencies-unique",
+    "description": "Determine the minimum number of character deletions required so that all resulting character frequencies are unique.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
+    "solutionUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/solutions/4033214/9932greedyheapbeginner-friendlyfull-expl-gdkl",
+    "categories": [
+      "string",
+      "greedy",
+      "hash-table"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Remove K Digits",
+    "slug": "remove-k-digits",
+    "description": "Find the smallest number possible by removing k digits from a given number.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/remove-k-digits/",
+    "solutionUrl": "https://leetcode.com/problems/remove-k-digits/solutions/5006003/greedy-on-solution-with-thought-process-9cej6",
+    "categories": [
+      "stack",
+      "greedy",
+      "string"
+    ],
+    "companies": [
+      "phonepe"
+    ]
+  },
+  {
+    "title": "Non-overlapping Intervals",
+    "slug": "non-overlapping-intervals",
+    "description": "Find the minimum number of intervals to remove to make the remaining intervals non-overlapping.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "solutionUrl": "https://neetcode.io/solutions/non-overlapping-intervals",
+    "categories": [
+      "greedy",
+      "array",
+      "sorting"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Minimum Time to Make Rope Colorful",
+    "slug": "minimum-time-to-make-rope-colorful",
+    "description": "Find the minimum total time to remove balloons so that no two adjacent balloons have the same color.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1",
+    "solutionUrl": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/",
+    "categories": [
+      "greedy",
+      "array",
+      "string"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Combination Sum II",
+    "slug": "combination-sum-ii",
+    "description": "Find all unique combinations in a set of candidate numbers that sum up to a target number, where each number may only be used once in the combination.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/combination-sum-ii/",
+    "solutionUrl": "https://youtu.be/PpUfuUTqqRY",
+    "categories": [
+      "backtracking",
+      "array",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Combinations",
+    "slug": "combinations",
+    "description": "Given two integers n and k, return all possible combinations of k numbers chosen from the range [1, n].",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/combinations/",
+    "solutionUrl": "https://algo.monster/liteproblems/77",
+    "categories": [
+      "backtracking",
+      "array",
+      "recursion"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Subset - II | Print all the Unique Subsets",
+    "slug": "subset-ii-print-all-unique-subsets",
+    "description": "Find all unique subsets (the power set) of a collection that may contain duplicate elements.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/subsets-ii/",
+    "solutionUrl": "https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets",
+    "categories": [
+      "backtracking",
+      "array",
+      "recursion"
+    ],
+    "companies": [
+      "apple",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "M-Coloring Problem",
+    "slug": "m-coloring-problem",
+    "description": "Check if a given graph can be colored with at most m colors such that no two adjacent vertices share the same color.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+    "solutionUrl": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+    "categories": [
+      "graph",
+      "backtracking",
+      "np-hard"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Beautiful Arrangement",
+    "slug": "beautiful-arrangement",
+    "description": "Find the number of beautiful arrangements you can construct for a given integer N.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/beautiful-arrangement/",
+    "solutionUrl": "https://algo.monster/liteproblems/526",
+    "categories": [
+      "backtracking",
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [
+      "deutche-bank"
+    ]
+  },
+  {
+    "title": "Palindrome Partitioning",
+    "slug": "palindrome-partitioning",
+    "description": "Return all possible ways to partition a given string such that every substring in the partition is a palindrome.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+    "solutionUrl": "https://algo.monster/liteproblems/131",
+    "categories": [
+      "backtracking",
+      "dynamic-programming",
+      "string"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Permutations II",
+    "slug": "permutations-ii",
+    "description": "Generate all unique permutations of a collection that may contain duplicate numbers.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://leetcode.com/problems/permutations-ii/",
+    "solutionUrl": "https://algo.monster/liteproblems/47",
+    "categories": [
+      "backtracking",
+      "array",
+      "recursion"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Subsets",
+    "slug": "subsets",
+    "description": "Return all possible subsets (the power set) of a given set of distinct integers.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1",
+    "solutionUrl": "https://leetcode.com/problems/subsets/",
+    "categories": [
+      "backtracking",
+      "bit-manipulation",
+      "array"
+    ],
+    "companies": [
+      "apple",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "N-Queens",
+    "slug": "n-queens",
+    "description": "Please specify the question or topic you would like a short description for.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/n-queens/",
+    "solutionUrl": "https://leetcode.com/problems/n-queens/solutions/7361035/n-queens-basic-recursion-backtracking-no-z8hy",
+    "categories": [
+      "backtracking",
+      "recursion",
+      "constraint-programming"
+    ],
+    "companies": [
+      "amazon",
+      "google"
+    ]
+  },
+  {
+    "title": "Sudoku Solver",
+    "slug": "sudoku-solver",
+    "description": "Determine how to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids contains all of the digits from 1 to 9.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximal-rectangle",
+    "solutionUrl": "https://algo.monster/liteproblems/37",
+    "categories": [
+      "backtracking",
+      "array",
+      "matrix"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Unique Paths III",
+    "slug": "unique-paths-iii",
+    "description": "Find the number of ways to traverse a grid from a start square to an end square, visiting every non-obstacle square exactly once.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/unique-paths-iii/",
+    "solutionUrl": "https://algo.monster/liteproblems/980",
+    "categories": [
+      "backtracking",
+      "depth-first-search",
+      "grid"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Maximum number possible by doing at-most K swaps",
+    "slug": "maximum-number-possible-by-doing-at-most-k-swaps",
+    "description": "Find the largest number that can be formed by performing at most K swaps of digits.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/find-maximum-number-possible-by-doing-at-most-k-swaps/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/find-maximum-number-possible-by-doing-at-most-k-swaps/",
+    "categories": [
+      "strings",
+      "backtracking",
+      "algorithms"
+    ],
+    "companies": [
+      "goldman-sachs",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Partition array to K subsets",
+    "slug": "partition-array-to-k-subsets",
+    "description": "Determine if an array can be divided into K non-empty subsets, each having an equal sum.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/",
+    "solutionUrl": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/",
+    "categories": [
+      "array",
+      "dynamic-programming",
+      "backtracking"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Tug of War Problem",
+    "slug": "tug-of-war-problem",
+    "description": "Find the maximum total power of a team chosen from two rows of students, with n students in each row.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/maximum-product-subarray",
+    "solutionUrl": "https://www.tutorialspoint.com/data_structures_algorithms/tug_of_war_problem.htm",
+    "categories": [
+      "dynamic-programming",
+      "divide-and-conquer",
+      "partition"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Find Paths From Corner Cell To Middle Cell In Maze",
+    "slug": "find-paths-from-corner-cell-to-middle-cell-in-maze",
+    "description": "Find all possible paths from a corner cell to the middle cell in a given maze.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://codeforces.com/problemset/problem/1779/H",
+    "solutionUrl": "https://codeforces.com/problemset/problem/1779/H",
+    "categories": [
+      "backtracking",
+      "recursion",
+      "matrix"
+    ],
+    "companies": [
+      "amazon",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Solving Cryptarithmetic Puzzles",
+    "slug": "solving-cryptarithmetic-puzzles",
+    "description": "Determine the digit mapping for letters to solve an arithmetic equation where letters replace digits.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/reverse-pairs",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/find-paths-from-corner-cell-to-middle-cell-in-maze/",
+    "categories": [
+      "backtracking",
+      "recursion",
+      "constraint-programming"
+    ],
+    "companies": [
+      "no-data"
+    ]
+  },
+  {
+    "title": "All Palindromic Partitions",
+    "slug": "all-palindromic-partitions",
+    "description": "Generate all possible partitioning of a string such that each part is a palindrome.",
+    "difficulty": "Medium",
+    "externalPlatformUrl": "https://www.geeksforgeeks.org/dsa/solving-cryptarithmetic-puzzles/",
+    "solutionUrl": "https://www.geeksforgeeks.org/dsa/solving-cryptarithmetic-puzzles/",
+    "categories": [
+      "backtracking",
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "microsoft",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Range Sum Query - Immutable",
+    "slug": "range-sum-query-immutable",
+    "description": "Calculate the sum of elements within a given range of an array repeatedly.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+    "solutionUrl": "https://leetcode.com/problems/palindrome-partitioning/solutions/5192153/detailed-explanationextremely-simple-and-ymuz",
+    "categories": [
+      "array",
+      "prefix-sum",
+      "dynamic-programming"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Range Sum Query - Mutable",
+    "slug": "range-sum-query-mutable",
+    "description": "Implement a mutable data structure to efficiently calculate the sum of elements within a range and update elements in an array.",
+    "difficulty": "Easy",
+    "externalPlatformUrl": "https://leetcode.com/problems/range-sum-query-mutable/",
+    "solutionUrl": "https://leetcode.com/problems/range-sum-query-immutable/solutions/6634640/master-2d-prefix-sum-to-instantly-solve-7563z",
+    "categories": [
+      "data-structure",
+      "array",
+      "segment-tree"
+    ],
+    "companies": [
+      "facebook",
+      "amazon"
+    ]
+  },
+  {
+    "title": "Count of Smaller Numbers After Self",
+    "slug": "count-of-smaller-numbers-after-self",
+    "description": "For each element in an array, count the number of smaller elements to its right.",
+    "difficulty": "Hard",
+    "externalPlatformUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "solutionUrl": "https://leetcode.com/problems/range-sum-query-mutable/solutions/6634648/master-fenwick-tree-for-lightning-fast-r-79f7",
+    "categories": [
+      "array",
+      "divide-and-conquer",
+      "merge-sort"
+    ],
+    "companies": [
+      "google",
+      "amazon"
+    ]
+  }
+]
